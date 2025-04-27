@@ -6,7 +6,7 @@
 
 I'm **LastSurvivalOn**, just a guy who enjoys building things that work.
 
-- 🛠 Junior ML Engineer with a Python core
+- 🛠 Junior ML Engineer with a Python
 - 🚀 Recently exploring Java (yes, even the legendary **J2ME** world)
 - ⚙️ Daily playing around with **Docker**, **Makefiles**, **Python (FastAPI, Flask)**, **C# (.NET, ASP)**
 - 📚 Big fan of math, backend systems, and historical memoirs
