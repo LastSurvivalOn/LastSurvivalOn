@@ -1,25 +1,15 @@
+# Kheloy gaiz ✌️
+
+I'm **Oleksandr**:)
+
 <p align="center">
   <img src="https://images.steamusercontent.com/ugc/541922206489971650/925E9CD37E089CD1E2EF76F813DBE2409D3F7B41/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="banner"/>
 </p>
 
-# Kheloy gaiz ✌️
-
-I'm **LastSurvivalOn**, just a guy who enjoys building things that work.
-
-- 🛠 Junior ML Engineer with a Python
+- 🛠 Junior ML Engineer (Python)
 - 🚀 Recently exploring Java (yes, even the legendary **J2ME** world)
-- ⚙️ Daily playing around with **Docker**, **Makefiles**, **Python (FastAPI, Flask)**, **C# (.NET, ASP)**
+- ⚙️ Daily playing around with **Docker**, **Makefile**, **Python (FastAPI, Flask)**, **C# (.NET, ASP)**
 - 📚 Big fan of math, backend systems, and historical memoirs
-
----
-
-# What I Work With
-
-- **Languages:** C++, Java, C#, Python, JavaScript (a little bit)
-- **Frameworks:** FastAPI, Flask, ASP.NET, Node.js
-- **Databases:** SQL, MongoDB, Neo4j
-- **Cloud / DevOps:** AWS, Docker
-- **Other:** Jupyter, Git, VS Code, Makefiles
 
 ---
 
@@ -32,6 +22,11 @@ I'm **LastSurvivalOn**, just a guy who enjoys building things that work.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM4cGNoaGsyc3NoYndvYjF4YmdobDZrMXF1bzZpaHkxZnVlbWg3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UVG0BN8TOMKkPOJS6e/giphy.gif" width="200" alt="coding gif">
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
