@@ -1,10 +1,12 @@
 # Kheloy gaiz ✌️
 
-I'm **Oleksandr**:)
+### I'm **Oleksandr**, a student of TNTU
 
 <p align="center">
   <img src="https://images.steamusercontent.com/ugc/541922206489971650/925E9CD37E089CD1E2EF76F813DBE2409D3F7B41/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="banner"/>
 </p>
+
+---
 
 - 🛠 Junior ML Engineer (Python)
 - 🚀 Recently exploring Java (yes, even the legendary **J2ME** world)
@@ -22,7 +24,7 @@ I'm **Oleksandr**:)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
