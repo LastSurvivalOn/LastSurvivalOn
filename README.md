@@ -20,7 +20,6 @@
 - Сareer advancement in the ML industry
 - Studying at the uni
 - Making J2ME great again 🔥
-- Writing a coursework 🥰
 
 ---
 
